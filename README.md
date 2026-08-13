@@ -4,7 +4,7 @@ A rule-based chatbot that simulates human-like conversation using pattern matchi
 instead of machine learning. Built with Python and NLTK, deployed as an interactive
 web app with Streamlit.
 
-**Live demo:** _add your Streamlit Community Cloud link here after deploying_
+**Live demo:** https://rule-based-chatbot-nltk-ttaboeb6burusqqcarcjak.streamlit.app/
 
 ## What this is
 
