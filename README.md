@@ -61,16 +61,6 @@ You can also chat with the bot directly in the terminal without Streamlit:
 python chatbot.py
 ```
 
-## Deploying to Streamlit Community Cloud
-
-1. Push this repo to GitHub.
-2. Sign in at [share.streamlit.io](https://share.streamlit.io) with your GitHub
-   account.
-3. Click **New app**, select this repository/branch, and set the main file
-   path to `app.py`.
-4. Deploy — Streamlit installs `requirements.txt` automatically and gives you a
-   public URL. Add that URL to the top of this README.
-
 ## Tech stack
 
 - **Python**
